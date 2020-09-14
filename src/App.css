@@ -1,0 +1,15 @@
+#heading {
+  color: red;
+}
+
+.cardwit {
+  max-width: 18rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
